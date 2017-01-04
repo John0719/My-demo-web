@@ -20,13 +20,3 @@ If you desire to require (optional) Angular files, you may include them as well 
 To use the 'unstable' branch, add the following directive to your JavaScript manifest file (application.js):
 
     //= require unstable/angular2
-
-## Versioning
-
-Every attempt is made to mirror the currently shipping Angular.js version number wherever possible.
-
-The major, minor, and patch version numbers will always represent the Angular.js version.
-
-## IMPORTANT: Requesting upgrades for new Angular.js versions
-
-Thanks to Nick Clark, we have an auto-upgrader that will upgrade the package to the latest version. To request that the latest version of Angular.JS be pushed as a gem to RubyGems, please create a new issue instead of pull requests.
